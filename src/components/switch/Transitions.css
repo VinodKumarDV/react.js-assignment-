@@ -1,0 +1,60 @@
+.container {
+    position: relative;
+    top: 10%;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+.txtcontainer {
+    width: 300px;
+    height: fit-content;
+    margin-top: 0px;
+    
+}
+
+.text1 {
+    display: inline;    
+}
+
+
+.ico{
+    margin-left: 5px;
+}
+
+.read-or-hide {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    margin-left: 0%;
+}
+
+.ftext {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+  padding: 0px 380px 0px 0px;
+  border-radius: 10px;
+  margin-left: 30px;
+}
+
+.ftext1 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  color: #FAC200;
+  padding: 0px 0px 0px 0px;
+  border-radius: 10px;
+}
+
+.li1{
+    font-size: 14px;
+    color: #A3A3A3;
+}
+
+.li2{
+    font-size: 14px;
+    color: #A3A3A3;
+    margin-left: 20px;
+}
